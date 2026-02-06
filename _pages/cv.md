@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Language Technologies, Instituto Superior Técnico / CMU Portugal, 2021-2025
+  * Thesis: "Multilingual Automatic Dialogue Evaluation"
+  * CMU Affiliate PhD supervised by Isabel Trancoso and Alon Lavie
+* Integrated M.Sc. in Electrical and Computer Engineering, Instituto Superior Técnico, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2023- : PhD Researcher
+  * INESC-ID
+  * Research focused on using machine learning methods to estimate the quality of chatbot conversations and customer sentiment, providing tips to help human agents increase customer satisfaction.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Winter 2020: R&D (ML) Intern
+  * DefinedCrowd
+  * Explored the use of Machine learning techniques to automatically detect profile misalignment of crowdsourcing contributors.
+  * Supervisor: Rui Correia
+
+* Summer 2019: Research Assistant
+  * INESC-ID
+  * Implemented a Gender Detection Model from Speech using state-of-the art approaches.
+  * Supervisor: Isabel Trancoso
 
 Publications
 ======
@@ -56,4 +52,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Publication Co-Chair, IWSDS 2026
+* Lead Organizer, DSTC12 (2025) Track 1: Dialog System Evaluation: Dimensionality, Language, Culture and Safety
+* Reviewer for ACL ARR, Proceedings IEEE.
