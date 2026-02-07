@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+This is a list of publications related to my primary research interests. 
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
