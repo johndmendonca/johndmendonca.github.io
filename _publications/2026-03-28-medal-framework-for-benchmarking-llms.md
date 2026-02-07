@@ -1,9 +1,9 @@
 ---
 title: "MEDAL: A Framework for Benchmarking LLMs as Multilingual Open-Domain Chatbots and Dialogue Evaluators"
 collection: publications
-permalink: /publication/2025-02-01-medal-framework-for-benchmarking-llms
+permalink: /publication/2026-03-28-medal-framework-for-benchmarking-llms
 excerpt: ""
-date: 2025-02-01
+date: 2026-03-28
 venue: "EACL 2026 (Findings)"
 paperurl: 'https://arxiv.org/abs/2505.22777'
 citation: 'Mendonca, J.; Lavie, A.; Trancoso, I. (2025). &quot;MEDAL: A Framework for Benchmarking LLMs as Multilingual Open-Domain Chatbots and Dialogue Evaluators.&quot; <i>EACL 2026 (Findings)</i>.'

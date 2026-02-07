@@ -1,7 +1,7 @@
 ---
 title: "Natural Language Processing"
 collection: teaching
-type: "graduate course"
+type: "Graduate course"
 permalink: /teaching/2022-winter-teaching-2
 venue: "Instituto Superior Técnico"
 date: 2022-09-01
